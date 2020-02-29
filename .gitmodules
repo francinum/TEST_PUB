@@ -1,0 +1,3 @@
+[submodule "TEST_PRIV"]
+	path = TEST_PRIV
+	url = git@github.com:francinum/TEST_PRIV.git

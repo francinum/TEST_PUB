@@ -1,3 +1,6 @@
 [submodule "TEST_PRIV"]
 	path = TEST_PRIV
 	url = git@github.com:francinum/TEST_PRIV.git
+[submodule "mcserver"]
+	path = mcserver
+	url = git@172.96.161.42:mcserver.git
